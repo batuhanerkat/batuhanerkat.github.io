@@ -1,0 +1,2 @@
+cd F:/Batuhan/Website/batuhanerkat.github.io
+bundle exec jekyll serve

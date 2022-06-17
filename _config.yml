@@ -1,3 +1,21 @@
-theme: jekyll-theme-cayman
-title: Batuhan's Homepage
-description: Welcome to my website!
+# Lets create this website!
+
+# Name of website
+title: O. Batuhan Erkat
+# Your name to show in the footer
+author: O. Batuhan Erkat
+
+# Site description
+description: This is my personal webpage
+# baseurl: ""
+url: ""
+# Twitter
+twitter_username: batuhanerkat
+
+# Theme for the website
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+
