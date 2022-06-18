@@ -4,4 +4,9 @@ title: Fun Projects
 permalink: /fun/
 ---
 
-Automatization of mouse surgeries:
+Cellular Automata
+
+Automatization of mouse surgeries
+
+
+
