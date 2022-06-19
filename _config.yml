@@ -3,19 +3,20 @@
 # Name of website
 title: O. Batuhan Erkat
 # Your name to show in the footer
-author: O. Batuhan Erkat
+# author: O. Batuhan Erkat
 
 # Site description
 description: This is my personal webpage
 # baseurl: ""
 url: ""
-# Twitter
+# Socials
 twitter_username: batuhanerkat
+linkedin_username: o-batuhan-erkat-msc-423b471ab
+site.default_background_image_url: /assets/bgimage.jpg
 
 # Theme for the website
 theme: minima
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-
 
