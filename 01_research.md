@@ -5,9 +5,7 @@ permalink: /research/
 order: 1
 ---
 
-I moved to US start my PhD journey in 2019. I am currently a PhD candiate in Neuroscience in Rutgers University in Polack Lab. Although we were hit by COVID in March 2020, we managed to produce very exciting scientific articles explaining critical questions on how brain changes during learning.
-
-Here a the list of papers I have contributed in Polack Lab:
+Here a the list of articles I have contributed in Polack Lab:
 
 <a href="https://www.frontiersin.org/articles/10.3389/fnsys.2022.869705/full" target="_blank">Estimating how sounds modulate representations in V1 using neural networks</a>
 
